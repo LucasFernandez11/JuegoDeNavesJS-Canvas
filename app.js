@@ -209,6 +209,7 @@ function initCanvas(){
          launcher.x-=0;   
          launcher.direccion = '';
         }
+        
     }); 
 
     document.addEventListener('keydown', function(event){
